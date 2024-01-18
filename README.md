@@ -23,7 +23,10 @@ The estimation process involves:
 
 ## Full Report
 
-For a more detailed analysis, including role-based effort allocation, development time calculation, and recommendations, please refer to the complete report.
+For a more detailed analysis, including role-based effort allocation, development time calculation, and recommendations, please refer to the complete report. 
+
+[Jupyter Notebook]: https://github.com/dikhimartin/simple-cocomo-project-estimation/blob/master/cocomo-project-estimation-approach.ipynb
+
 
 
 ## References
