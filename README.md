@@ -20,7 +20,7 @@ The estimation process involves:
 2. **Effort Multiplier (EM):** A factor accounting for project-level attributes (e.g., team experience, product complexity).
 3. **Effort Calculation:** Using the formula `Effort (person-days) = KLOC * EM`.
 4. **Development Time Calculation:** Utilizing the formula `Development Time = c * (Effort)^d`, with mode-specific coefficients (c, d).
-5. **Person Months Calulcation :  ** Utilizing the formula `Person-Months = Effort / Development time`
+5. **Person Months Calulcation :** Utilizing the formula `Person-Months = Effort / Development time`
 
 ## Full Report
 
